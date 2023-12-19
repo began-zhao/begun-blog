@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as c,c as r,a as e,b as a}from"./app-yPmJUr2c.js";const o={},_=e("p",null,[e("strong",null,"降级&熔断"),a(" 相关的面试题")],-1),l=[_];function s(n,i){return c(),r("div",null,l)}const d=t(o,[["render",s],["__file","fallback_circuit-breaker.html.vue"]]);export{d as default};
