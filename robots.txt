@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://began-zhao.github.io/sitemap.xml
+Sitemap: https://began-zhao.github.io/begun-blog/sitemap.xml
