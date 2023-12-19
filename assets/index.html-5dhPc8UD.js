@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c,a as e}from"./app-lTU62Fz1.js";const o={},s=e("div",{class:"hint-container tip"},[e("p",{class:"hint-container-title"},"介绍"),e("p",null,"自己的一些碎碎叨")],-1),i=[s];function a(r,_){return n(),c("div",null,i)}const f=t(o,[["render",a],["__file","index.html.vue"]]);export{f as default};

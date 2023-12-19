@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as n,a as e}from"./app-lTU62Fz1.js";const _={},c=e("p",null,"精选 Github 和 Gitee 上优质的 Java 开源项目，希望能够帮助到你。",-1),s=e("p",null,"如果有更好的项目推荐或者学习方式，欢迎关注公众号【程序猴咖飞】留言，相互学习。",-1),a=[c,s];function r(i,l){return o(),n("div",null,a)}const m=t(_,[["render",r],["__file","index.html.vue"]]);export{m as default};
