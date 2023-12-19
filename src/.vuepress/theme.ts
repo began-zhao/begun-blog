@@ -4,11 +4,11 @@ import { sidebarConig } from "./sidebar/index.js";
 import { MR_HOPE_AVATAR } from "./logo.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://began-zhao.github.io/",
 
   author: {
     name: "咖飞",
-    url: "https://mister-hope.com",
+    url: "https://began-zhao.github.io/",
   },
 
   iconAssets: "iconfont",
