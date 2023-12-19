@@ -6,7 +6,6 @@ export default defineUserConfig({
 
   locales: {
     "/": {
-      // lang: "en-US",
       lang: "zh-CN",
       title: "咖飞的博客",
       description: "咖飞的学习笔记分享",
