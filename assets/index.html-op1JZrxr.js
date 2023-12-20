@@ -1,1 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as r,b as e}from"./app-EPIBb_U8.js";const a={},c=e("h2",{id:"",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#","aria-hidden":"true"},"#")],-1),n=[c];function s(_,d){return o(),r("div",null,n)}const l=t(a,[["render",s],["__file","index.html.vue"]]);export{l as default};
