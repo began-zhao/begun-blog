@@ -1,1 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as c,c as s,b as e,e as n}from"./app-tThR1ORi.js";const o={},r=e("p",null,[e("strong",null,"泛型&通配符"),n(" 相关的面试题")],-1),a=[r];function _(l,d){return c(),s("div",null,a)}const m=t(o,[["render",_],["__file","generics-and-wildcards.html.vue"]]);export{m as default};
