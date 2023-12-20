@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "./public/logo.png",
+  logo: "logo.svg",
 
   repo: "began-zhao/begun-blog",
 
