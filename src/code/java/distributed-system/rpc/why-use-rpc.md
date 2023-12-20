@@ -1,7 +1,7 @@
 ---
 title: 服务之间的调用为啥不直接用 HTTP 而用 RPC？
 date: 2021-11-18
-category: f分布式
+category: 分布式
 ---
 # 服务之间的调用为啥不直接用 HTTP 而用 RPC？
 

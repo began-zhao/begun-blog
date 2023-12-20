@@ -69,7 +69,10 @@ export default hopeTheme({
         description: "公众号【程序猴咖飞】，欢迎关注学习",
         intro: "/about/author/",
       },
-
+      docsRepo: 'https://github.com/began-zhao/begun-blog',
+      docsBranch: 'master',
+      // docsDir: 'docs',
+      editLinkPattern: ':repo/edit/:branch/:path',
       metaLocales: {
         editLink: "Edit this page on GitHub",
       },
