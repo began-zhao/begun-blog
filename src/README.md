@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 主页
 heroImage: /logo.svg
-heroText: 咖飞的博客
+heroText: 咖飞
 tagline: 简单分享，希望和大家一起进步...
 heroFullScreen: true
 projects:
