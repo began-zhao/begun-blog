@@ -20,7 +20,7 @@ export default defineUserConfig({
   plugins: [
     docsearchPlugin({
       appId: "JUMI1R306J",
-      apiKey: "d3ecad32515453b2e7c430e080f1c0b7",
+      apiKey: "74333c15f686403d2037832db7f836bd",
       indexName: "begun",
       locales: {
         "/": {
