@@ -339,7 +339,16 @@ export const code = arraySidebar([
           "data-desensitization",
         ],
       },
-      "schedule-task",
+      {
+        text: "调度",
+        prefix: "schedule/",
+        icon: "security-fill",
+        collapsible: true,
+        children: [
+          "schedule-task",
+          "schedule-change",
+        ],
+      },
     ],
   },
   {
