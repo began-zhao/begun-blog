@@ -347,6 +347,7 @@ export const code = arraySidebar([
         children: [
           "schedule-task",
           "schedule-change",
+          "big-data-schedule"
         ],
       },
     ],
