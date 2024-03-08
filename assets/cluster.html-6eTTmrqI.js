@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c,b as o}from"./app-57Y6i9bT.js";const s={},r=o("p",null,"相同的服务部署多份，避免单点故障。",-1),_=[r];function n(l,a){return t(),c("div",null,_)}const m=e(s,[["render",n],["__file","cluster.html.vue"]]);export{m as default};
