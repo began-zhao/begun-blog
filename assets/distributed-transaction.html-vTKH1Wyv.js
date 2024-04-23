@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as s,b as e,e as n}from"./app-ydtqKDtN.js";const r={},c=e("p",null,[e("strong",null,"分布式事务"),n(" 相关的面试题")],-1),a=[c];function _(i,l){return o(),s("div",null,a)}const f=t(r,[["render",_],["__file","distributed-transaction.html.vue"]]);export{f as default};
