@@ -383,6 +383,12 @@ export const code = arraySidebar([
           "zookeeper/zookeeper-in-action",
         ],
       },
+      {
+        text: "分布式缓存",
+        prefix: "cache/",
+        collapsible: true,
+        children: ["cache-king-1", "cache-king-2"],
+      },
     ],
   },
   {
