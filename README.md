@@ -54,8 +54,8 @@
 - [MySQL幻读被彻底解决了吗](https://mp.weixin.qq.com/s/sJVUvzX12_lkg0drx8Yk2g)
 
 ### 调度
-- [分布式任务调度框架]([https://mp.weixin.qq.com/s/sJVUvzX12_lkg0drx8Yk2g](https://began-zhao.github.io/begun-blog/code/java/system-design/schedule/schedule-change.html))
-- [大数据任务调度工具选型参考]([https://mp.weixin.qq.com/s/sJVUvzX12_lkg0drx8Yk2g](https://began-zhao.github.io/begun-blog/code/java/system-design/schedule/big-data-schedule.html))
+- [分布式任务调度框架](https://mp.weixin.qq.com/s?__biz=Mzg3NTcyNzI5Mg==&mid=2247484054&idx=1&sn=413277b32dea18e11b8e950558fa3cd8)
+- [大数据任务调度工具选型参考](https://mp.weixin.qq.com/s?__biz=Mzg3NTcyNzI5Mg==&mid=2247484085&idx=1&sn=2276e990c186a3821e1d582b389a47bc)
 
 ## 设计模式
 
