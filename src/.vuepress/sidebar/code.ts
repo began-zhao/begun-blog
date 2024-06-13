@@ -366,6 +366,7 @@ export const code = arraySidebar([
       },
       "api-gateway",
       "distributed-id",
+      "paxos-raft",
       {
         text: "RPC",
         prefix: "rpc/",
