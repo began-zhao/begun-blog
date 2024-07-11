@@ -309,6 +309,7 @@ export const code = arraySidebar([
       "mybatis/mybatis-interview",
       "netty",
       "springcloud/springcloud-intro",
+      "BPMN",
     ],
   },
   {
