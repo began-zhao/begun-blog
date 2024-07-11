@@ -121,7 +121,7 @@ export const code = arraySidebar([
   {
     text:"大数据",
     icon: "java",
-    prefix: "bigData/common",
+    prefix: "bigData",
     collapsible: true,
     children:[
       {
